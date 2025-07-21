@@ -44,7 +44,7 @@ Steps Performed:
      
 7. Feature Importance Analysis:
    - Logistic Regression:
-     Phone Service was found to be a key feature.
+     Tenure was found to be a key feature.
      ![alt text](visuals/Feature-LR.png)
 
    - Decision Tree:
@@ -52,8 +52,7 @@ Steps Performed:
      ![alt text](visuals/Feature-DT.png)
      
 8. Model Comparison - selecting the best model
-   - Logistic Regression showed better generalization with balanced     performance across all metrics.
-
+   - Logistic Regression showed better generalization with balanced performance across all metrics.
    - Decision Tree, while slightly overfitting, provided better interpretability in terms of decision paths. 
 
 Conclusion:
