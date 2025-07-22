@@ -58,6 +58,10 @@ Steps Performed:
 Conclusion:
 The Logistic Regression model outperformed the Decision Tree in terms of balanced evaluation metrics and interpretability. It serves as a reliable predictor of customer churn for this dataset, offering telecom companies a foundation for building effective retention strategies.
 
+Power BI Dashboard: 
+![alt text](visuals/Churn_Dashboard_overview.png)
+This dashboard summarizes predicted vs actual churn, customer segments, and key service-related insights using interactive visuals.
+
 
 
 
