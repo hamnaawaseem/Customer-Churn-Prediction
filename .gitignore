@@ -1,0 +1,4 @@
+.venv/
+OriginalCustomer_data.csv
+Model_LR.pkl
+churn_data_powerBI.csv
